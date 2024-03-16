@@ -8,9 +8,9 @@
 
  __Key Features__ 🔑:
 
-- Seamless GitHub Profile Exploration: Quickly and effortlessly retrieve detailed information about any GitHub user by entering their username.
-- Elegent User InterFace
-- Responsive Design: Enjoy a seamless experience across devices.
+ - Elegent User InterFace: Immerse Yourself in a visually captivating UI design to elevate your dining experience.
+ - Responsive Design: Enjoy a seamless experience across devices.
+ - Easy Navigation: Navigate through our menu, About Restaurant , and contact information effortlessly with easy navigation features, ensuring a smooth and enjoyable browsing experience.
  <br>
   
 __Live WebSite 🌐__ :  [GitHub User Explorer](https://github-search7.netlify.app/)

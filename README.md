@@ -13,6 +13,6 @@
  - Easy Navigation: Navigate through our menu, About Restaurant , and contact information effortlessly with easy navigation features, ensuring a smooth and enjoyable browsing experience.
  <br>
   
-__Live WebSite 🌐__ :   [sanji-gericht Restaurant](https://github-search7.netlify.app/)
+__Live WebSite 🌐__ :   [sanji-gericht Restaurant](https://sanji-gericht.netlify.app/)
 
 Check it Out !!
